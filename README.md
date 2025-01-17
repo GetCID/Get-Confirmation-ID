@@ -19,7 +19,7 @@ Explore more: [Get Confirmation ID Services](https://msconfirmationid.com/get-co
 - Automate CID generation with our official **Telegram Bot**.  
 - **Image-to-CID Support**: Send an image of the Installation ID, and the bot will extract it and provide the CID in **20 seconds**.  
 - Prefer typing? Send the Installation ID in text format for the same fast results.  
-- **Try it out**: [GetCID Official Bot](https://t.me/GetCID_Official_Bot)  
+- **Try it out**: [GetCID Official Bot](https://t.me/GETCIDOfficialBot)  
 - See it in action: [Join the Official Group](https://t.me/GETCID_Official)  
 
 ---
@@ -35,7 +35,7 @@ Explore more: [Get Confirmation ID Services](https://msconfirmationid.com/get-co
 - **Get the Plugin**: Contact us to download and install.  
 
   - **Email**: [care@msconfirmationid.com](mailto:care@msconfirmationid.com)  
-  - **Telegram**: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)  
+  - **Telegram**: [@CIDAdmin](https://t.me/cidadmin)  
   - **Skype**: [live:.cid.afc21522bf98cf1b](https://join.skype.com/invite/.cid.afc21522bf98cf1b)  
 
 ---
@@ -70,7 +70,7 @@ Ready to get started or have questions? Contact us:
 - **Email**: [care@msconfirmationid.com](mailto:care@msconfirmationid.com)  
 - **Telegram**: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)  
 - **Skype**: [live:.cid.afc21522bf98cf1b](https://join.skype.com/invite/.cid.afc21522bf98cf1b)  
-
+- **See Bot in action**: [Join the Official Group](https://t.me/GETCID_Official)  
 ---
 
 Simplify Microsoft product activation with **Get Confirmation ID**—fast, reliable, and designed for everyone! 🚀  
